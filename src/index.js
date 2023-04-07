@@ -1,4 +1,3 @@
-// import './sass/main.scss';
 import { fetchImages } from './js/fetch-images.js';
 import { renderGallery } from './js/render-gallery.js';
 import { onScroll, onToTopBtn } from './js/scroll.js';
